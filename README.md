@@ -69,11 +69,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Acknowledgements
 
-- Georgia DDS: For the sample image used in this project.
-- OpenCV: For image processing capabilities.
-- Tesseract-OCR: For optical character recognition.
-- Pandas: For data handling and CSV operations.
-- Pillow: For image manipulation.
+- Georgia DDS: Sample image used in this project.
+- [OpenCV](https://opencv.org/) - Computer vision library (Apache License 2.0)
+- [Pytesseract](https://github.com/madmaze/pytesseract) - Python wrapper for Tesseract (Apache License 2.0)
+- [Pandas](https://pandas.pydata.org/) - Data analysis library (BSD 3-Clause License)
+- [Pillow](https://python-pillow.org/) - Image processing library (HPND License)
 
 
 ### Additional Files
