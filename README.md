@@ -9,7 +9,11 @@ This project provides a Python script to extract text from images of Georgia dri
 - Image enhancement using OpenCV
 - OCR text extraction with Tesseract-OCR
 - Saves extracted text to a CSV file
-- Sample image provided for demonstration
+- Sample image from the Georgia DDS provided for demonstration
+
+## Disclaimer
+
+This project is independent of the Georgia Department of Driver Services (DDS) and is not officially endorsed by or affiliated with DDS. The information provided in this project is for educational and informational purposes only. DDS is not responsible for any errors or omissions in the data or for any consequences arising from the use of this information.
 
 ## Installation
 
@@ -69,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Acknowledgements
 
-- Georgia DDS: Sample image used in this project.
+- [Georgia DDS](https://dds.georgia.gov/license-card-information): Sample image used in this project.
 - [OpenCV](https://opencv.org/) - Computer vision library (Apache License 2.0)
 - [Pytesseract](https://github.com/madmaze/pytesseract) - Python wrapper for Tesseract (Apache License 2.0)
 - [Pandas](https://pandas.pydata.org/) - Data analysis library (BSD 3-Clause License)
