@@ -2,7 +2,7 @@
 
 ## Description
 
-This project provides a Python script to extract text from images of driver's licenses using Optical Character Recognition (OCR) with Tesseract-OCR. The script enhances the image, extracts text, and saves the text to a CSV file.
+This project provides a Python script to extract text from images of Georgia driver's permits using Optical Character Recognition (OCR) with Tesseract-OCR. The script enhances the image, extracts text, and saves the text to a CSV file.
 
 ## Features
 
@@ -68,8 +68,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ### Additional Files
 
 - **`requirements.txt`**: List of dependencies: 
-opencv-python
-pytesseract
-pandas
-Pillow
+   - opencv-python
+   - pytesseract
+   - pandas
+   - Pillow
 
