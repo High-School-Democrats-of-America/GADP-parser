@@ -38,6 +38,17 @@ This project provides a Python script to extract text from images of Georgia dri
 
 3. The extracted text will be saved to ``drivers_license_data.csv``
 
+   ```bash
+   your-repo/
+   │
+   ├── README.md
+   ├── requirements.txt
+   ├── 1-write.py
+   ├── drivers_license.jpg
+   ├── enhanced_image.jpg (generated in the program)
+   └── drivers-license_data.csv (generated in the program)
+
+
 ## Sample Output
 
 The extracted text from the driver's license will be saved in ``drivers_license_data.csv``, with each line representing a separate piece of text extracted from the image.
