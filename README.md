@@ -4,7 +4,7 @@
 
 This project provides a Python script to extract text from images of Georgia driver's permits using Optical Character Recognition (OCR) with Tesseract-OCR. The script enhances the image, extracts text, and saves the text to a CSV file.
 
-## Features
+## Featuress
 
 - Image enhancement using OpenCV
 - OCR text extraction with Tesseract-OCR
